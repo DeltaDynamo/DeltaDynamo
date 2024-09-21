@@ -22,3 +22,6 @@ I specialize in creating robust and efficient applications, with a focus on back
 I’m passionate about solving challenging problems and optimizing code for better performance. I also enjoy contributing to open-source projects in my spare time.
 
 📫 **Let’s Connect!** Feel free to reach out for collaboration or just to chat about tech!
+
+![DeltaDynamo's Stats](https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![DeltaDynamo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeltaDynamo&theme=blue-green&hide_border=true)
