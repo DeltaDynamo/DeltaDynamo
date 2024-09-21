@@ -24,7 +24,7 @@ I’m passionate about solving challenging problems and optimizing code for bett
 📫 **Let’s Connect!** Feel free to reach out for collaboration or just to chat about tech!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true[" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="450" height="200"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeltaDynamo&theme=blue-green&hide_border=true" width="450" height="225"/>
