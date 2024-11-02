@@ -10,7 +10,7 @@ I specialize in creating robust and efficient applications, with a focus on back
 
 <div align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,mongodb,mysql,spring,react,vscode,jest,postman,eclipse,git,githubactions,html,css&perline=8" alt="Languages Tools & Technologies" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,mongodb,mysql,spring,react,vscode,jest,postman,eclipse,git,githubactions,html,css,cpp&perline=8" alt="Languages Tools & Technologies" />
   </a>
 </div>
 
