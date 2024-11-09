@@ -15,7 +15,7 @@ I specialize in creating robust and efficient applications, with a focus on back
 </div>
 
 ### 🔧 Projects I’m currently contributing to / working on:
-- **Logoexecutive:** [View my PRs](https://github.com/TeamShiksha/logoexecutive/pulls/assigned/DeltaDynamo)
+- **Logoexecutive:** [View my PRs](https://github.com/TeamShiksha/logoexecutive/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
 - **GitHub Profile Analyzer:** Currently rebuilding the project in Typescript.
 
 ### 🌟 What Drives Me:
