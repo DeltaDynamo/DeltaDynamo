@@ -15,8 +15,8 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 </div>
 
 ### 🔧 Projects I’m currently contributing to / working on:
-- **Logoexecutive:** [Pull Requests](https://github.com/TeamShiksha/logoexecutive/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
-- **GitHub Profile Analyzer:** Currently rebuilding the project in Typescript.
+- **Logoexecutive:** [View merged pull requests](https://github.com/TeamShiksha/logoexecutive/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
+- **GitHub Profile Analyzer:** Currently rebuilding this project in Typescript.
 
 ### 🌟 What Drives Me:
 I’m passionate about solving challenging problems and optimizing code for better performance. I also enjoy contributing to open-source projects and build my own in my spare time.
