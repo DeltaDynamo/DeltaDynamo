@@ -9,19 +9,24 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 </div>
 
 <div align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,mongodb,mysql,spring,react,vscode,jest,postman,eclipse,git,githubactions,html,css&perline=8" alt="Languages Tools & Technologies" />
+  <a href="https://deltadynamo.github.io/">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,aws,maven,eclipse,postman,js,ts,nodejs,express,vscode,jest,git,react&perline=8" alt="MySkills" />
   </a>
 </div>
 
-### 🔧 Projects I’m currently contributing to / working on:
-- **Logoexecutive:** [View merged pull requests](https://github.com/TeamShiksha/logoexecutive/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
-- **GitHub Profile Analyzer:** Currently rebuilding this project in Typescript.
+---
 
-### 🌟 What Drives Me:
-I’m passionate about solving challenging problems and optimizing code for better performance. I also enjoy contributing to open-source projects and build my own in my spare time.
+### 🔧 Open Source Contributions
+- 1️⃣ _**OpenLogo**_ : [**View merged PRs**](https://github.com/TeamShiksha/openlogo/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
 
-### 📫 **Let’s Connect!** Feel free to reach out for collaboration or just to chat about tech!
+### 📂 Projects
+- 1️⃣ **GitHub Profile Analyzer:** Currently rebuilding this project.
+
+💡 I am deeply committed to delivering efficient, scalable, and high-quality engineering solutions that drive business success.  
+
+### 📫 **Let’s [Connect!](https://www.linkedin.com/in/anubhavsrivastavain/)** Feel free to reach out for collaboration or just to chat about tech!
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="450" height="200" alt="Github-Contributions"/>
