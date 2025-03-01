@@ -31,6 +31,3 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="450" height="200" alt="Github-Contributions"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeltaDynamo&theme=blue-green&hide_border=true" width="450" height="225" alt="Github-Contributions"/>
-</div>
