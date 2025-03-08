@@ -29,5 +29,5 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="500" height="300" alt="Github-Contributions"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeltaDynamo&theme=blue-green&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="450" height="225" alt="Github-Contributions"/>
 </div>
