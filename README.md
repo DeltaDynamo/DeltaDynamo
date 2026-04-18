@@ -20,8 +20,7 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 - 1️⃣ _**OpenLogo**_ : [**View merged PRs**](https://github.com/TeamShiksha/openlogo/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
 
 ### 📂 Projects
-- 1️⃣ **Feature Flag and Config Management System:** In progress.
-- 2️⃣ **GitHub Profile Analyzer:** Todo (Rebuild in TypeScript).
+- 1️⃣ **Spring Arena:** In progress.
 
 💡 I am deeply committed to delivering efficient, scalable, and high-quality engineering solutions that drive business success.  
 
