@@ -16,11 +16,11 @@ A **Software Engineer** with a strong focus on **backend development**. While my
 
 ---
 
+### 📂 Projects I am working on
+- 1️⃣ **[Spring Arena](https://github.com/DeltaDynamo/spring-arena) :** Building v1
+
 ### 🔧 Open Source Contributions
 - 1️⃣ _**OpenLogo**_ : [**View merged PRs**](https://github.com/TeamShiksha/openlogo/pulls?q=is%3Apr+assignee%3ADeltaDynamo+is%3Aclosed)
-
-### 📂 Projects
-- 1️⃣ **Spring Arena:** In progress.
 
 💡 I am deeply committed to delivering efficient, scalable, and high-quality engineering solutions that drive business success.  
 
